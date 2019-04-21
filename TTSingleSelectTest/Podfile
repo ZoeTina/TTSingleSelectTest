@@ -1,0 +1,7 @@
+platform :'ios','9.0'
+target 'TTSingleSelectTest' do
+    pod 'Masonry'
+    pod 'AFNetworking'
+    pod 'SDWebImage'
+  use_frameworks!
+end
